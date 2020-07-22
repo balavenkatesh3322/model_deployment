@@ -21,6 +21,7 @@ When it comes to deploying ML models, data scientists have to make a choice base
 | [Cortex](https://github.com/cortexlabs/cortex) | Cortex is an open source platform for deploying machine learning models—trained with nearly any framework—as production web services.| 
 |[Multi-Model-server](https://github.com/awslabs/multi-model-server) | Multi Model Server (MMS) is a flexible and easy to use tool for serving deep learning models trained using any ML/DL framework.|
 | [DeepDetect](https://github.com/beniz/deepdetect) |  Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain| 
+|[Aml-Deploy](https://github.com/Azure/aml-deploy) | GitHub Action for deploying Machine Learning Models to Azure |
 | [ForestFlow](https://github.com/ForestFlow/ForestFlow) |  Cloud-native machine learning model server.| 
 | [Jina](https://github.com/jina-ai/jina)  |  Cloud native search framework that   supports to use deep learning/state of the art AI models for search.| 
 | [KFServing](https://github.com/kubeflow/kfserving) | Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU)|  
