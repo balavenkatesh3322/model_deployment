@@ -10,6 +10,13 @@
 ## What is Model serving?
 When it comes to deploying ML models, data scientists have to make a choice based on their use case. If they need a high volume of predictions and latency is not an issue, they typically perform inference in batch, feeding the model with large amounts of data and writing the predictions into a table. If they need predictions at low latency, e.g. in response to a user action in an app, the best practice is to deploy ML models as REST endpoints. These apps allows to send requests to an endpoint that’s always up and receive the prediction immediately.
 
+
+## Pre-trained Models
+* [Computer Vision Pre-trained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+* [NLP Pre-trained Models](https://github.com/balavenkatesh3322/NLP-pretrained-model)
+* [Audio and Speech Pre-trained Models](https://github.com/balavenkatesh3322/audio-pretrained-model)
+
+
 ***
 
 | Library Name | Description |
